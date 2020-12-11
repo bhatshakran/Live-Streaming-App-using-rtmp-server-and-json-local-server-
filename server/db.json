@@ -1,0 +1,24 @@
+{
+  "streams": [
+    {
+      "title": "stream1",
+      "description": "coding",
+      "id": 1
+    },
+    {
+      "title": "stream2",
+      "description": "gaming",
+      "id": 2
+    },
+    {
+      "title": "sterrer",
+      "description": "ssss",
+      "id": 3
+    },
+    {
+      "title": "stream4",
+      "description": "all about study",
+      "id": 4
+    }
+  ]
+}
